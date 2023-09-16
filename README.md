@@ -1,4 +1,5 @@
 # program
+
 Print the pattern
 *
 **
