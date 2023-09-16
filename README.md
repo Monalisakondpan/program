@@ -1,7 +1,6 @@
 # program
 
 Print the pattern:
-
 *
 **
 ***
