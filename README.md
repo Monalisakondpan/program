@@ -1,7 +1,3 @@
 # program
 
-Print the pattern:
-*
-**
-***
-****
+Print the patttern:
